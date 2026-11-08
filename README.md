@@ -17,7 +17,7 @@ data, compared on six metrics, and exposed through a Streamlit web app.
   (so the scaler is saved with the model). Decision Tree and Naive Bayes use raw features.
 
 ## c. GitHub repository link
-<ADD YOUR GITHUB REPO URL HERE>
+https://github.com/Udaya-KK-2026/AIML-A2-MODELS-DIAGNOSTIC-DATA
 
 Live app: <ADD YOUR STREAMLIT COMMUNITY CLOUD URL HERE>
 
