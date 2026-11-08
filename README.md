@@ -65,4 +65,4 @@ metrics, confusion matrix, classification report, and a comparison table of all 
 are loaded from `model/`; nothing is retrained.
 
 ## BITS Virtual Lab
-<INSERT ONE SCREENSHOT OF THE ASSIGNMENT RUNNING ON BITS VIRTUAL LAB HERE>
+Refer all snapshot of LAB execution screeen shots in "Screenshot_Lab.doc"
