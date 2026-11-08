@@ -19,7 +19,8 @@ data, compared on six metrics, and exposed through a Streamlit web app.
 ## c. GitHub repository link
 https://github.com/Udaya-KK-2026/AIML-A2-MODELS-DIAGNOSTIC-DATA
 
-Live app: <ADD YOUR STREAMLIT COMMUNITY CLOUD URL HERE>
+Live app: (using Streamlit App Cloud)
+https://aiml-a2-models-diagnostic-app.streamlit.app/
 
 ```
 ├── app.py                # Streamlit app
